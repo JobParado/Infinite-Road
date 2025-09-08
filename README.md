@@ -7,7 +7,7 @@ This project was created as part of my self-learning journey in Unity after comp
 ---
 
 ## 🎮 Gameplay Preview
-![Gameplay GIF](files/Infinite%20Road%201.0%202025-09-08%2016-35-21.gif)
+![Gameplay GIF](game.gif)
 
 ---
 

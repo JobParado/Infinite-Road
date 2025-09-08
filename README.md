@@ -1,4 +1,46 @@
-# Infinite-Road
-A simple 2D endless driving game built in Unity. The player controls a car and must navigate an infinite road while avoiding obstacles.
+# 🚗 Infinite Road (Unity)
 
-This was my first independent Unity project, created as a way to apply what I learned from Unity’s beginner course of unity essentials and programming.
+A simple 2D endless driving game built with **Unity**.  
+The player controls a car on an infinite road and must avoid obstacles while trying to survive as long as possible.  
+This project was created as part of my self-learning journey in Unity after completing their unity essential and programming course.
+
+---
+
+## 🎮 Gameplay Preview
+![Gameplay GIF](files/Infinite%20Road%201.0%202025-09-08%2016-35-21.gif)
+
+---
+
+## 📦 Download & Play
+- [Source Code on GitHub](https://github.com/your-username/car-game)  
+
+
+---
+
+## 🛠️ Features
+- Endless road generation  
+- Basic car movement and controls  
+- Collision detection with obstacles  
+- Simple UI (score counter, restart option)
+
+---
+
+## 📚 What I Learned
+- Unity fundamentals: scenes, prefabs, game objects  
+- Writing scripts in **C#**  
+- Using Unity Asset Store resources for prototyping  
+- Designing and testing a complete game loop  
+
+---
+
+## ⚙️ Built With
+- [Unity](https://unity.com/)  
+- C#  
+- Visual Studio / VS Code  
+
+---
+
+## 👤 Author
+**Job Aebraham A. Parado**  
+- GitHub: [@JobParado](https://github.com/JobParado)  
+- Portfolio: [@JobParado.github.io](https://your-username.github.io)  

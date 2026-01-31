@@ -1,6 +1,6 @@
 # 🚗 Infinite Road (Unity)
 
-A simple 2D endless driving game built with **Unity**.  
+A simple 2D endless driving game built with **Unity** Pc Version.  
 The player controls a car on an infinite road and must avoid obstacles while trying to survive as long as possible.  
 This project was created as part of my self-learning journey in Unity after completing their unity essential and programming course.
 
@@ -11,15 +11,14 @@ This project was created as part of my self-learning journey in Unity after comp
 
 ---
 
-## 📦 Download & Play
-- (https://drive.google.com/drive/folders/1fpAg2_Vn1sQtOkKj42IWYtOOdLFxnp7o?usp=sharing)  
-
+## 📦 Download & Play (PC Version)
+- (https://drive.google.com/file/d/1MWaZUb5sFH-M4JjxfkP9Wk9EDJLedzLb/view?usp=sharing)  
 
 ---
 
 ## 🛠️ Features
 - Endless road generation  
-- Basic car movement and controls  
+- Basic car movement and controls (WASD)
 - Collision detection with obstacles  
 - Simple UI (score counter, restart option)
 

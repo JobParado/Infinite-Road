@@ -17,9 +17,9 @@ This project was created as part of my self-learning journey in Unity after comp
 ---
 
 ## 🛠️ Features
-- Endless road generation  
+- Endless road generation ( Generates a road while deleting the previous used road for optimization
 - Basic car movement and controls (WASD)
-- Collision detection with obstacles  
+- Collision detection with obstacles (3D box colliders)
 - Simple UI (score counter, restart option)
 
 ---
@@ -35,11 +35,10 @@ This project was created as part of my self-learning journey in Unity after comp
 ## ⚙️ Built With
 - [Unity](https://unity.com/)  
 - C#  
-- Visual Studio / VS Code  
+- Visual Studio 2022 / VS Code  
 
 ---
 
 ## 👤 Author
 **Job Aebraham A. Parado**  
 - GitHub: [@JobParado](https://github.com/JobParado)  
-- Portfolio: [@JobParado.github.io](https://your-username.github.io)  
